@@ -1,0 +1,36 @@
+.content {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  margin-left: -120px;
+}
+
+.form {
+  display: grid;
+  grid-template-columns: 1fr 100px;
+  background-color: #fc0;
+  border-radius: 8px;
+  padding: 3px;
+  height: 42px;
+  box-sizing: border-box;
+}
+
+.submit {
+  background-color: #fc0;
+  height: 100%;
+  border-radius: 6px;
+  border: none;
+}
+
+.img__content {
+  width: 100px;
+  height: 40px;
+}
+
+.text {
+  border: 0;
+  border-radius: 6px;
+  outline: none;
+  height: 34px;
+  padding-left: 10px;
+}
+

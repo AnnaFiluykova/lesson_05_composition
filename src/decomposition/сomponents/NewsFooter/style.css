@@ -1,0 +1,10 @@
+.news__footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.news__footer-title {
+  color: blueviolet;
+}
+

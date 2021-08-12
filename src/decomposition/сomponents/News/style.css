@@ -1,0 +1,16 @@
+.news__tabs {
+  display: flex;
+  gap: 20px;
+}
+
+.news__image {
+  width: 15px;
+  height: 15px;
+  margin-right: 6px;
+}
+
+.news__item {
+  display: flex;
+  align-items: center;
+  margin-top: 8px;
+}
